@@ -12,7 +12,7 @@ The following were used in Mashup:
 
 The deployed website can be accessed at [ra-cs50-mashup.herokuapp.com]. Please [let me know] if you find any problems with the site.
 
-[ra-cs50-finance.herokuapp.com]: <ra-cs50-finance.herokuapp.com>
+[ra-cs50-mashup.herokuapp.com]: <https://ra-cs50-mashup.herokuapp.com>
 [Problem Set 8 - Mashup]: <http://docs.cs50.net/problems/mashup/mashup.html>
 [let me know]: <mailto:reginaalyssa01809@gmail.com>
 [Google Maps]: <https://developers.google.com/maps/documentation/javascript/>
@@ -20,4 +20,3 @@ The deployed website can be accessed at [ra-cs50-mashup.herokuapp.com]. Please [
 [Typeahead.js]: <https://twitter.github.io/typeahead.js/>
 [jQuery]: <http://jquery.com/>
 [AJAX]: <https://learn.jquery.com/ajax/jquery-ajax-methods/>
-[ra-cs50-mashup.herokuapp.com]: <ra-cs50-mashup.herokuapp.com>
