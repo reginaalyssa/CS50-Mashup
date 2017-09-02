@@ -12,8 +12,6 @@ The following were used in Mashup:
 
 The deployed website can be accessed at [ra-cs50-mashup.herokuapp.com]. Please [let me know] if you find any problems with the site.
 
-Feel free to explore its functionalities and send me an [email] if you find any bugs.
-
 [ra-cs50-finance.herokuapp.com]: <ra-cs50-finance.herokuapp.com>
 [Problem Set 8 - Mashup]: <http://docs.cs50.net/problems/mashup/mashup.html>
 [let me know]: <mailto:reginaalyssa01809@gmail.com>
